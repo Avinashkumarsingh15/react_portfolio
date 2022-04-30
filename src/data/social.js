@@ -11,7 +11,7 @@ export const SocialData=[
     },
     {
         platform:"Linkedin",
-        link:"https://www.linkedin.com/avinash-kumar-singh-b17a71187",
+        link:"https://www.linkedin.com/in/avinash-kumar-singh-b17a71187/",
         icon:require('../assets/icons/linkedin.png').default,
     },
     {
