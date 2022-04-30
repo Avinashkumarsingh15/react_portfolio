@@ -6,7 +6,7 @@ export const WorkData = [
       dateEnd: "Present",
       companyLogo:
         require('../assets/infosys.png').default,
-      work: "Working as Junior developer. ",
+      work: "Working as Java Full Stack developer. ",
     },
     
   ];
