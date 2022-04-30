@@ -7,7 +7,9 @@ function About() {
       <div className="about-top">
         <div className="about-info">
           Hello There 👋, I am <br />
+
           <span className="info-name">Avinash Kumar Singh</span>.<br /> I am a Java Spring Boot developer and also
+
           experimenting with the web.
         </div>
         <div className="about-photo">
