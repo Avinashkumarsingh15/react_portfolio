@@ -42,5 +42,22 @@ export const SkillsData = [
         },
       ],
     },
+    {
+      type: "Database",
+      list: [
+        {
+          name: "MySQL ",
+          icon: <i class="devicon-mysql-plain-wordmark colored"></i>,
+        },
+        {
+            name: "MongoDB ",
+            icon: <i class="devicon-mongodb-plain-wordmark colored"></i>,
+          },
+          {
+            name: "Apache Kafka ",
+            icon: <i class="devicon-apachekafka-original colored"></i>,
+          },
+      ],
+    },
   ];
   
